@@ -1,1 +1,10 @@
-"# webscrapper" 
+# Welcome to web scrapper
+
+Live website link : THERE IS NO LIVE SITE
+
+## TECHNOLOGY USED
+NODE JS, EXPRESS JS, CHERRIO.
+
+ITS BASSICLY A PERSONAL PROJECT 
+YOU CAN CHECK OUT THE CODE IF YOU LIKE.
+
